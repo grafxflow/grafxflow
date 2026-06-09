@@ -1,6 +1,10 @@
 # About Me:
 
-Guru of all things digital - UX Designer and Fullstack Developer, Tailwind through to Laravel, React, and Vuejs plus a bonus of AI Video enhancing!
+Full-Stack Laravel Developer | Fixing broken architectures & shipping high-performance MVPs without the offshore communication gaps.
+
+# Contact Me
+
+[https://grafxflow.co.uk/contact](https://grafxflow.co.uk/contact)
 
 # Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
